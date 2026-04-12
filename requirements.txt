@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-community
+httpx
+sqlalchemy
+asyncpg
+psycopg2-binary
+redis
+faiss-cpu
+python-dotenv
+pytest
+flask
